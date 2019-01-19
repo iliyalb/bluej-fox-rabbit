@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Name\:\ \u0627\u06CC\u0644\u06CC\u0627\ \u0644\u0633\u0627\u0646\u06CC\ \u0628\u062D\u0631\u06CC\r\n\ Title\:\ \u067E\u0627\u0633\u062E\ \u0646\u0647\u0627\u06CC\u06CC\ \u06A9\u0627\u0631\u06AF\u0627\u0647\ 2\r\n
+comment1.params=athr
+comment1.target=Book(java.lang.String)
+comment10.params=_setPages
+comment10.target=void\ setPages(int)
+comment11.params=
+comment11.target=void\ printBookInfo()
+comment2.params=athr\ ttl
+comment2.target=Book(java.lang.String,\ java.lang.String)
+comment3.params=athr\ ttl\ pgs
+comment3.target=Book(java.lang.String,\ java.lang.String,\ int)
+comment4.params=
+comment4.target=Book()
+comment5.params=
+comment5.target=java.lang.String\ getAuthor()
+comment6.params=_setAuthor
+comment6.target=void\ setAuthor(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getTitle()
+comment8.params=_setTitle
+comment8.target=void\ setTitle(java.lang.String)
+comment9.params=
+comment9.target=int\ getPages()
+numComments=12

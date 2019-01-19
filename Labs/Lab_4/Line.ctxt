@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Line
+comment1.params=startPoint\ endPoint
+comment1.target=Line(Point,\ Point)
+comment1.text=\r\n\ Constructor\ with\ parameters\ from\ Point\ class\r\n
+comment2.params=move
+comment2.target=void\ moveHorizontally(int)
+comment2.text=\r\n\ Changes\ horizontal\ start\ and\ end\ position\ of\ line\r\n
+comment3.params=myPoint
+comment3.target=void\ checkPoint(Point)
+comment3.text=\r\n\ Checks\ point\ in\ line\ math\ expression\r\n
+numComments=4

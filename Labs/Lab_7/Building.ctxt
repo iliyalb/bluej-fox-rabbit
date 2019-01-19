@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Building
+comment1.params=name\ description
+comment1.target=Building(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ City\r\n
+comment2.params=room
+comment2.target=void\ addRoom(int)
+numComments=3
