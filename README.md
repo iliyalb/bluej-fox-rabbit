@@ -1,3 +1,6 @@
+# Foxes and Rabbits
+![Graph & Grid frames](Sample.png?raw=true)
+
 Project: foxes-and-rabbits-graph
 Authors: Michael Kölling and David J. Barnes
 
@@ -14,9 +17,10 @@ an enclosed rectangular field.
 This is the first version of the simulation. This version
 does not use inheritance.
 
-How to start:
-    Create a Simulator object.
+## How to use
+    Create a Simulator object inside Bluej.
     Then call one of:
         + simulateOneStep - for a single step.
         + simulate - and supply a number (say 10) for that many steps.
         + runLongSimulation - for a simulation of 500 steps.
+Or use the release version `foxes-and-rabbits-graph.jar` file.
