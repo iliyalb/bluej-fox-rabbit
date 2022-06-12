@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Constances
-comment1.params=
-comment1.target=Constances()
-comment2.params=X1\ X2\ X3
-comment2.target=Constances(int,\ int,\ int)
-numComments=3

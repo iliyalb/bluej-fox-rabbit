@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=HourlyEmployee
-comment1.params=thename\ thedate\ hourse\ wage
-comment1.target=HourlyEmployee(java.lang.String,\ java.lang.String,\ double,\ double)
-comment2.params=
-comment2.target=double\ monthlySalary()
-comment3.params=
-comment3.target=void\ print()
-numComments=4

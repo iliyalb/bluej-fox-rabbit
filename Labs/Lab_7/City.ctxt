@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=City
-comment1.params=name\ description
-comment1.target=City(java.lang.String,\ java.lang.String)
-comment2.params=building
-comment2.target=void\ addBuilding(Building)
-numComments=3
